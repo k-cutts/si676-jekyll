@@ -22,8 +22,8 @@ title: Katie's SI676 Jekyll Site
 email: kcutts@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is my site for SI 676 Managing Digital Collections at UMSI.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/si676-jekyll" # the subpath of your site, e.g. /blog
+url: "https://k-cutts.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  k-cutts
 
